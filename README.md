@@ -35,8 +35,8 @@ If you use this code in your work or research, please cite the corresponding pap
 ```bibtex
 @misc{muzsai2024hacksynthllmagentevaluation,
       title={HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing}, 
-      author={Lajos Muzsai and David Imolai and András Lukács},
-      year={2024},
+      author={Yash Uttam Kondekar},
+      year={2025-26},
       eprint={2412.01778},
       archivePrefix={arXiv},
       primaryClass={cs.CR},
@@ -44,11 +44,11 @@ If you use this code in your work or research, please cite the corresponding pap
 }
 ```
 ## Contributors
-- Lajos Muzsai (muzsailajos@protonmail.com)
-- David Imolai (david@imol.ai)
-- András Lukács (andras.lukacs@ttk.elte.hu)
+- Yash Kondekar (yashkondekar41@protonme.com)
+- Apexgpy41 (yashkondekar41@gmail.com)
+  
 
-> 🔍 Also see our related project on reinforcement learning for cryptographic CTFs: [HackSynth-GRPO](https://github.com/aielte-research/HackSynth-GRPO)
+> 🔍 Also see our related project on reinforcement learning for cryptographic CTFs: [HackSynth-GRPO]([https://github.com/aielte-research/HackSynth-GRPO](https://github.com/apexgpy41/HackSynth-AI))
 
 ## License
 The project uses the GNU AGPLv3 license.
